@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d10487f-52bd-4e7a-8782-679a420f21fa" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0807/url/URLExample01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="511">
+              <caret line="25" column="19" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="25" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/BufferedReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="379" column="19" lean-forward="true" selection-start-line="379" selection-start-column="19" selection-end-line="381" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/net/URL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="824" column="18" selection-start-line="824" selection-start-column="18" selection-end-line="824" selection-end-column="18" />
+              <folding>
+                <element signature="e#28748#28749#0" expanded="true" />
+                <element signature="e#28775#28776#0" expanded="true" />
+                <element signature="e#29416#29417#0" expanded="true" />
+                <element signature="e#29443#29444#0" expanded="true" />
+                <element signature="e#29976#29977#0" expanded="true" />
+                <element signature="e#30007#30008#0" expanded="true" />
+                <element signature="e#30373#30374#0" expanded="true" />
+                <element signature="e#30400#30401#0" expanded="true" />
+                <element signature="e#30877#30878#0" expanded="true" />
+                <element signature="e#30904#30905#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>eque</find>
+      <find>equals</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0729/three/MyComparator.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0729/three/ListExample.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0729/Test.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0730/one/HashMapExample.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0730/one/Student.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0730/one/HashMapExample02.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0730/two/Hashtable.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0730/two/HashtableExample.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0730/three/TreeMapExample.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0730/Test.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0731/entry/Card.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0731/controller/CardsController.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0731/entry/PackOfCards.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0731/CardTest.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0803/one/Example.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0803/one/MyStudent.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0803/one/Test.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0803/file01/FileExample02.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0803/file01/FileExample01.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0803/file01/FileExample03.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0803/file01/FileInputStreamExample.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0803/file01/FileOutputStreamExmaple.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0803/file01/FileWriterExample.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0803/file01/FileReaderExample.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0803/file01/FileReaderExample01.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0804/example01/BufferedInputOutputStreamExample.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0804/example02/DataOutputStreamExample.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0804/example02/DataInputStreamExample.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0804/example03/Test.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0804/example03/ObjectOutputStreamExample.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0804/example03/ObjectInputStreamExample.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0804/example03/Student.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0804/example03/Test01.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0804/example03/Demo1.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/entry/Student.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/controller/StudentController.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/Test.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/thread01/MyThread.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/thread01/Test.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/thread02/RunnableTest.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/thread02/MyRunnable.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/thread03/SingleTest.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/thread03/Single.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0806/thread01/TickerSystem.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0806/thread01/TickerTest.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0806/Test.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0806/thread02/Producer.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0806/thread02/Consumer.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0806/thread02/Storage.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0806/thread02/Test01.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0807/url/URLExample01.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="195" />
+    <option name="y" value="35" />
+    <option name="width" value="1520" />
+    <option name="height" value="870" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="taili204" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taili204" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taili204" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taili204" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="neuedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taili204" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="neuedu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taili204" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="neuedu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="object0807" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taili204" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="neuedu" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="object0807" type="462c0819:PsiDirectoryNode" />
+              <item name="url" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taili204" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tljava-01" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.60294116" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.URLExample01">
+    <configuration name="RunnableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neuedu.api.object0805.thread02.RunnableTest" />
+      <module name="firstdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neuedu.api.object0805.thread02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neuedu.api.object0805.thread03.SingleTest" />
+      <module name="firstdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neuedu.api.object0805.thread03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neuedu.api.object0806.thread02.Test01" />
+      <module name="firstdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neuedu.api.object0806.thread02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TickerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neuedu.api.object0806.thread01.TickerTest" />
+      <module name="firstdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neuedu.api.object0806.thread01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="URLExample01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neuedu.api.object0807.url.URLExample01" />
+      <module name="firstdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neuedu.api.object0807.url.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RunnableTest" />
+      <item itemvalue="Application.SingleTest" />
+      <item itemvalue="Application.TickerTest" />
+      <item itemvalue="Application.Test01" />
+      <item itemvalue="Application.URLExample01" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.URLExample01" />
+        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.TickerTest" />
+        <item itemvalue="Application.SingleTest" />
+        <item itemvalue="Application.RunnableTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d10487f-52bd-4e7a-8782-679a420f21fa" name="Default Changelist" comment="" />
+      <created>1594170340762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594170340762</updated>
+      <workItem from="1594170346354" duration="5501000" />
+      <workItem from="1594257338329" duration="4061000" />
+      <workItem from="1594343114148" duration="6254000" />
+      <workItem from="1594623377313" duration="6780000" />
+      <workItem from="1594709977371" duration="4921000" />
+      <workItem from="1594795324901" duration="4540000" />
+      <workItem from="1594884384884" duration="2782000" />
+      <workItem from="1594969122345" duration="4968000" />
+      <workItem from="1595228518311" duration="4275000" />
+      <workItem from="1595314850712" duration="5060000" />
+      <workItem from="1595401154490" duration="4540000" />
+      <workItem from="1595487598348" duration="5009000" />
+      <workItem from="1595573956754" duration="5149000" />
+      <workItem from="1595833165859" duration="5619000" />
+      <workItem from="1595920387543" duration="4283000" />
+      <workItem from="1596006162308" duration="4425000" />
+      <workItem from="1596092425838" duration="5109000" />
+      <workItem from="1596164301219" duration="5000" />
+      <workItem from="1596178365326" duration="5309000" />
+      <workItem from="1596437956295" duration="4593000" />
+      <workItem from="1596442586978" duration="954000" />
+      <workItem from="1596524319445" duration="6739000" />
+      <workItem from="1596610725390" duration="5630000" />
+      <workItem from="1596697067173" duration="5472000" />
+      <workItem from="1596783673424" duration="2586000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="114564000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.1980198" visible="true" weight="0.2533512" />
+      <window_info id="Structure" order="1" sideWeight="0.8019802" side_tool="true" visible="true" weight="0.2533512" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Hadoop FileSystem" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.083451204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.89250356" visible="true" weight="0.3230563" />
+      <window_info id="Structure" order="1" sideWeight="0.10749646" side_tool="true" visible="true" weight="0.3230563" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Hadoop FileSystem" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.08769448" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0803/file01/FileReaderExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0803/file01/FileWriterExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/BufferedInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
+          <folding>
+            <element signature="e#5951#5952#0" expanded="true" />
+            <element signature="e#5996#5997#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="44" column="16" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/BufferedOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+          <folding>
+            <element signature="e#1188#1189#0" expanded="true" />
+            <element signature="e#1219#1220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/OutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0804/example01/BufferedInputOutputStreamExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test04.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/DataInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="148" column="10" selection-start-line="148" selection-start-column="10" selection-end-line="148" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/FilterInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+          <folding>
+            <element signature="e#1393#1394#0" expanded="true" />
+            <element signature="e#1421#1422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/DataInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+          <folding>
+            <element signature="e#1026#1027#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0804/example02/DataInputStreamExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0804/example02/DataOutputStreamExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/DataOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="237" column="9" selection-start-line="237" selection-start-column="9" selection-end-line="237" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/FilterOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+          <folding>
+            <element signature="e#1538#1539#0" expanded="true" />
+            <element signature="e#1568#1569#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/DataOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+          <folding>
+            <element signature="e#1269#1270#0" expanded="true" />
+            <element signature="e#1295#1296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/ObjectStreamConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="76" column="22" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/ObjectOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="162" column="59" lean-forward="true" selection-start-line="162" selection-start-column="59" selection-end-line="162" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0804/example03/ObjectOutputStreamExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0804/example03/ObjectInputStreamExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9120">
+          <caret line="350" column="5" selection-start-line="350" selection-start-column="5" selection-end-line="350" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/ObjectInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0804/example03/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/ObjectOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="38" column="46" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0804/example03/Demo1.java" />
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0804/example03/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="168" selection-start-line="168" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/file/entry/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/file/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="117" column="37" lean-forward="true" selection-start-line="117" selection-start-column="37" selection-end-line="117" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/file/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/thread01/main.java" />
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/thread01/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/thread02/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/thread02/RunnableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/thread01/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/thread03/SingleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0805/thread03/Single.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0806/thread01/TickerSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0806/thread01/TickerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0806/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0806/thread02/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="42" column="36" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0806/thread02/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0806/thread02/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0806/thread02/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1830">
+          <caret line="84" column="29" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="249" column="24" selection-start-line="249" selection-start-column="24" selection-end-line="249" selection-end-column="24" />
+          <folding>
+            <element signature="e#14781#14782#0" expanded="true" />
+            <element signature="e#14845#14846#0" expanded="true" />
+            <element signature="e#15465#15466#0" expanded="true" />
+            <element signature="e#15531#15532#0" expanded="true" />
+            <element signature="e#15719#15720#0" expanded="true" />
+            <element signature="e#15790#15791#0" expanded="true" />
+            <element signature="e#17000#17001#0" expanded="true" />
+            <element signature="e#17067#17068#0" expanded="true" />
+            <element signature="e#17373#17374#0" expanded="true" />
+            <element signature="e#17414#17415#0" expanded="true" />
+            <element signature="e#18332#18333#0" expanded="true" />
+            <element signature="e#18374#18375#0" expanded="true" />
+            <element signature="e#18886#18887#0" expanded="true" />
+            <element signature="e#18929#18930#0" expanded="true" />
+            <element signature="e#21229#21230#0" expanded="true" />
+            <element signature="e#21273#21274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/net/MalformedURLException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="824" column="18" selection-start-line="824" selection-start-column="18" selection-end-line="824" selection-end-column="18" />
+          <folding>
+            <element signature="e#28748#28749#0" expanded="true" />
+            <element signature="e#28775#28776#0" expanded="true" />
+            <element signature="e#29416#29417#0" expanded="true" />
+            <element signature="e#29443#29444#0" expanded="true" />
+            <element signature="e#29976#29977#0" expanded="true" />
+            <element signature="e#30007#30008#0" expanded="true" />
+            <element signature="e#30373#30374#0" expanded="true" />
+            <element signature="e#30400#30401#0" expanded="true" />
+            <element signature="e#30877#30878#0" expanded="true" />
+            <element signature="e#30904#30905#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="379" column="19" lean-forward="true" selection-start-line="379" selection-start-column="19" selection-end-line="381" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/com/neuedu/api/object0807/url/URLExample01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>firstdemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.60294116" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
